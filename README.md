@@ -1,7 +1,6 @@
 ## Olá, eu sou Márcio José de Carvalho 👋
 
 - 🌱 Atualmente estou aprendendo flutter, python e java
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/MarcioJCarvalho">
